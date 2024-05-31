@@ -1,0 +1,31 @@
+fieldset {
+    height: 450px;
+}
+h1 {
+     text-align: center;
+     color: blue;
+}
+
+.container {
+    font-weight: bolder;
+    
+}
+ #s1 {
+    width: 900px;
+}
+
+#s2 {
+    width: 900px;
+}
+
+#email {
+    width: 900px;
+}
+
+div {
+    background-color: antiquewhite;
+}
+.but input {
+    text-align: center;
+    color: blueviolet;
+}
